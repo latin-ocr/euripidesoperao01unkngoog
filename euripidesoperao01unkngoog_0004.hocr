@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euripidesoperao01unkngoog/euripidesoperao01unkngoog_0004.png"; bbox 0 0 844 1388; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 397 10 710 113">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 397 10 710 113">
+     <span class='ocr_line' id='line_1_1' title="bbox 397 10 710 87; baseline -0.007 -35"><span class='ocrx_word' id='word_1_1' title='bbox 397 10 562 87; x_wconf 43' lang='lat'><em>&amp;7324</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 575 27 622 52; x_wconf 57' lang='lat' dir='ltr'><em>js:</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 638 27 710 51; x_wconf 66' lang='lat' dir='ltr'><em>mn</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 480 85 664 113; baseline 0 -13"><span class='ocrx_word' id='word_1_4' title='bbox 480 92 512 107; x_wconf 40' lang='lat' dir='ltr'><em>a·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 525 98 530 101; x_wconf 91' lang='lat'>.</span> <span class='ocrx_word' id='word_1_6' title='bbox 560 86 600 113; x_wconf 51' lang='lat'><em>[4</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 629 85 664 109; x_wconf 50' lang='lat' dir='ltr'>Q</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
